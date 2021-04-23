@@ -1,6 +1,6 @@
 # github_search_clean
 
-A new Flutter project.
+Projeto de estudo da arquitetura clean.
 
 ## Descrição
 
